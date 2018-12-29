@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MsgShareApp</string>
+    <string name="my_button">My Button</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="goforit">GoForIt</string>
+    <string name="Go"/>
+    <string name="SignUp">SignUp</string>
+</resources>
